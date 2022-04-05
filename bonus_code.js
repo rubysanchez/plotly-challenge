@@ -22,7 +22,7 @@ function buildGauge(wfreq) {
         type: "scatter",
         x: [0],
         y: [0],
-        marker: { size: 12, color: "860000" },
+        marker: { size: 12, color: "008080" },
         showlegend: false,
         name: "Freq",
         text: level,
