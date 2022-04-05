@@ -47,7 +47,7 @@ function buildMetadata(sample) {
           marker: {
             size: sample_values,
             color: otu_ids,
-            colorscale: "Blues"
+            colorscale: "oranges"
           }
         }
       ];
@@ -104,4 +104,3 @@ function buildMetadata(sample) {
   
   // Generate Webpage
   init();
-  
